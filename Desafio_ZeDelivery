@@ -1,0 +1,22 @@
+1.) Plataforma WEB
+
+a.) Validar idade/maioridade no primeiro acesso ao site/app;
+
+b.) Validar cep/localização do cliente;
+
+c.) Realizar pedido de compra de acordo com a disponibilidade de produtos para a região;
+
+============================================
+2.) Selenium/Eclipse
+
+=============================================
+3.) Validações de API
+
+Pelo Navegador/Postman/SoupUi
+
+http://localhost:8080/previsao/{cidade}/{pais}
+
+Para rodar os testes:
+Dentro da Classe: src/test/java em com.exemplo.demo > PrevisaoDoTempoControllerTest.java.
+
+Botão direito em cima e "Run as" > "JUnit Test" (JUnit 4)
